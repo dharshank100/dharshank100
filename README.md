@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharshank100
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on clients 
 - 📫 How to reach me dharshan.k100@gmail.com 
 
